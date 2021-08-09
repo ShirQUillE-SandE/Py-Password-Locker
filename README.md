@@ -22,12 +22,12 @@ All the saved profiles with the passwords that have been store by the user will 
 Use "ex" to exit the program.     
 
 ## Setup/Installation Requirements           
-Clone the repository
+Clone the repository      
                   
-Ensure you have python3.6 installed in your computer.        
-       
+Ensure you have python3.6 installed in your computer.              
+             
 Install pyperclip using the following:   
-
+      
 $ python3.6 -m pip install pyperclip     
 
 From the terminal navigate to the cloned project folder.          
@@ -36,7 +36,7 @@ Open terminal and go to the project folder, run $ ./run.py
 
 ## Debugging
 This will be updated as the app goes on. 
-This site was build using Python 3.6.
+This site was build using Python 3.6.                          
  
 ## Credits
 Shirquille SAnde
