@@ -17,7 +17,7 @@ Input the name "Gmail" for Example
 The program will display your account name and the password             
      
 
-A user can also display all the profiles saved.            
+A user can also display all the profiles saved.             
 displaypassword - This will be used for displaying all profiles.             
 All the saved profiles with the passwords that have been store by the user will be displayed.                 
 Use "ex" to exit the program.     
