@@ -1,7 +1,7 @@
 # PASSWORD Vault
 
-This Python application helps a user to store and generate passwords as well as create account profiles. It gives the user the option to generate a random password or write a new one themselves.        
-     
+This Python application helps a user to store and generate passwords as well as create account profiles. It gives the user the option to generate a random password or write a new one themselves.                        
+            
 ## Specifications
 The user can create a password profile, which records the account and password that the user enters, requests or generates. Use:      
 
