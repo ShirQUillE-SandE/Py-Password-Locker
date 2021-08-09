@@ -34,7 +34,7 @@ From the terminal navigate to the cloned project folder.
 
 Open terminal and go to the project folder, run $ ./run.py
 
-## Debugging
+## Debugging        
 This will be updated as the app goes on. 
 This site was build using Python 3.6.                          
  
