@@ -8,11 +8,11 @@ The user can create a password profile, which records the account and password t
 newpassword - to create a password profile. The application will automatically save your profile
 You have the option of generating a password using our random password generator or writing down one of your won.
 
-generatepassword - for using our random password generator.
+generatepassword - for using our random password generator.          
 makepassword - to write down one of your own. (The password will be saved for the user should they enter this).
 You can search a password by account name. for example if your want to find your saved profile for Gmail or Yahoo.
 
-findpassword- for find profile
+findpassword- for find profile     
 Input the name "Gmail" for Example
 The program will display your account name and the password
 
@@ -23,7 +23,7 @@ Use "ex" to exit the program.
 
 ## Setup/Installation Requirements
 Clone the repository
-
+    
 Ensure you have python3.6 installed in your computer.
 
 Install pyperclip using the following:   
