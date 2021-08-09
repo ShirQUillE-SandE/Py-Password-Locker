@@ -23,9 +23,9 @@ Use "ex" to exit the program.
 
 ## Setup/Installation Requirements           
 Clone the repository
-         
+                  
 Ensure you have python3.6 installed in your computer.        
-
+       
 Install pyperclip using the following:   
 
 $ python3.6 -m pip install pyperclip     
