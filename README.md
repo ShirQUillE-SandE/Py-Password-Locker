@@ -16,21 +16,21 @@ findpassword- for find profile
 Input the name "Gmail" for Example
 The program will display your account name and the password
      
-A user can also display all the profiles saved.      
-displaypassword - This will be used for displaying all profiles. 
+A user can also display all the profiles saved.            
+displaypassword - This will be used for displaying all profiles.      
 All the saved profiles with the passwords that have been store by the user will be displayed.
 Use "ex" to exit the program.     
-
+    
 ## Setup/Installation Requirements           
 Clone the repository      
-                  
+                       
 Ensure you have python3.6 installed in your computer.              
              
-Install pyperclip using the following:   
+Install pyperclip using the following:       
       
-$ python3.6 -m pip install pyperclip     
+$ python3.6 -m pip install pyperclip         
 
-From the terminal navigate to the cloned project folder.          
+From the terminal navigate to the cloned project folder.             
 
 Open terminal and go to the project folder, run $ ./run.py
 
@@ -43,7 +43,7 @@ Shirquille SAnde
 
 ## License
 
-Copyright (c) [shirquille sande]
+Copyright (c) [shirquille sande]     
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
