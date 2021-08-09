@@ -25,7 +25,7 @@ Use "ex" to exit the program.
 
 
 ## Setup/Installation Requirements           
-Clone the repository      
+Clone the repository       
                        
 
 
