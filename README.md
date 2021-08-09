@@ -1,7 +1,7 @@
 # PASSWORD Vault
 
-This Python application helps a user to store and generate passwords as well as create account profiles. It gives the user the option to generate a random password or write a new one themselves.
-
+This Python application helps a user to store and generate passwords as well as create account profiles. It gives the user the option to generate a random password or write a new one themselves.        
+     
 ## Specifications
 The user can create a password profile, which records the account and password that the user enters, requests or generates. Use:
 
@@ -12,7 +12,7 @@ generatepassword - for using our random password generator.
 makepassword - to write down one of your own. (The password will be saved for the user should they enter this).
 You can search a password by account name. for example if your want to find your saved profile for Gmail or Yahoo.
 
-findpassword- for find profile     
+findpassword- for find profile         
 Input the name "Gmail" for Example
 The program will display your account name and the password
 
@@ -23,7 +23,7 @@ Use "ex" to exit the program.
 
 ## Setup/Installation Requirements       
 Clone the repository
-    
+         
 Ensure you have python3.6 installed in your computer.        
 
 Install pyperclip using the following:   
