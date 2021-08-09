@@ -28,9 +28,9 @@ Ensure you have python3.6 installed in your computer.
              
 Install pyperclip using the following:       
       
-$ python3.6 -m pip install pyperclip         
+$ python3.6 -m pip install pyperclip               
 
-From the terminal navigate to the cloned project folder.             
+From the terminal navigate to the cloned project folder.                 
 
 Open terminal and go to the project folder, run $ ./run.py
 
